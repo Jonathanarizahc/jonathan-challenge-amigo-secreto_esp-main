@@ -16,5 +16,4 @@ juego interactivo de Amigo secreto, Actividad de formacion complementaria  desar
 
 ## Agradecimientos y que lo disfruten ##
 
- De momento eso es todo  que disfruten Este desarrolllo seguire actualizandolo y robusteciendolo futura mente.
- 
+ De momento eso es todo  que disfruten Este desarrolllo seguire actualizandolo y robusteciendolo.
